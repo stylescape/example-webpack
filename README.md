@@ -5,7 +5,7 @@
 [![StackBlitz](https://img.shields.io/badge/:badgeContent?style=flat-square&logo=StackBlitz&logoColor=%23FFFFFF&label=StackBlitz&labelColor=%23041B26&color=%23041B26)](https://stackblitz.com/github/stylescape/example-webpack/tree/main/webpack?file=src%2Findex.html)
 
 
-https://img.shields.io/badge/:badgeContent?style=flat&logo=Docker&label=devContainer
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=Docker&label=devContainer)
 
 </div>
 
