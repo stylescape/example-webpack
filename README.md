@@ -1,6 +1,6 @@
 <div align="right">
 
-[![GitHub License](https://img.shields.io/github/license/stylescape/font.gl?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/example-webpack/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/stylescape/example-webpack?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/example-webpack/blob/main/LICENSE)
 [![devContainer](https://img.shields.io/badge/devContainer-23041B26?style=flat-square&logo=Docker&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/example-webpack)
 [![StackBlitz](https://img.shields.io/badge/StackBlitz-23041B26?style=flat-square&logo=StackBlitz&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26)](https://stackblitz.com/github/stylescape/example-webpack/tree/main?file=src%2Findex.html)
 
@@ -15,12 +15,6 @@
 ---
 
 Include [Stylescape](https://scape.style)'s source Sass and individual JavaScript plugins with [Webpack](https://webpack.js.org).
-
----
-
-## Edit in browser
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/stylescape/example-webpack/tree/main/webpack?file=src%2Findex.html)
 
 ---
 
