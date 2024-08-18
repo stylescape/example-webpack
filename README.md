@@ -10,7 +10,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat&logo=Docker&label=devContainer">
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat&logo=Docker&label=devContainer">
+<img alt="Static Badge" src="https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge">
 
 
 <p align="center">
