@@ -1,7 +1,7 @@
 <div align="right">
 
 [![GitHub License](https://img.shields.io/github/license/stylescape/font.gl?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/example-webpack/blob/main/LICENSE)
-[![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=Docker&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/example-webpack)
+[![devContainer](https://img.shields.io/badge/Container?style=flat-square&logo=Docker&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/example-webpack)
 [![StackBlitz](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=StackBlitz&logoColor=%23FFFFFF&label=StackBlitz&labelColor=%23041B26&color=%23041B26)](https://stackblitz.com/github/stylescape/example-webpack/tree/main/webpack?file=src%2Findex.html)
 
 
