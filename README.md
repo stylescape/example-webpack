@@ -1,13 +1,11 @@
 <div align="right">
 
 [![GitHub License](https://img.shields.io/github/license/stylescape/font.gl?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/example-webpack/blob/main/LICENSE)
-[![devContainer](https://img.shields.io/badge/:badgeContent?style=flat-square&logo=Docker&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/example-webpack)
+[![devContainer](https://img.shields.io/badge/?style=flat-square&logo=Docker&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/example-webpack)
 [![StackBlitz](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=StackBlitz&logoColor=%23FFFFFF&label=StackBlitz&labelColor=%23041B26&color=%23041B26)](https://stackblitz.com/github/stylescape/example-webpack/tree/main/webpack?file=src%2Findex.html)
 
 
 </div>
-
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat&logo=Docker&label=devContainer">
 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge">
