@@ -5,9 +5,11 @@
 [![StackBlitz](https://img.shields.io/badge/:badgeContent?style=flat-square&logo=StackBlitz&logoColor=%23FFFFFF&label=StackBlitz&labelColor=%23041B26&color=%23041B26)](https://stackblitz.com/github/stylescape/example-webpack/tree/main/webpack?file=src%2Findex.html)
 
 
-[![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=Docker&label=devContainer)]
 
 </div>
+
+[![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=Docker&label=devContainer)]
+
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/stylescape/brand/master/src/logo/logo-transparant.png" width="20%" height="20%" alt="Stylescape Logo">
