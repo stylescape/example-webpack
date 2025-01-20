@@ -1,5 +1,5 @@
 // Import our custom CSS
-import '../scss/main.scss';
+import "../scss/main.scss";
 
 // Import only the Stylescape components we need
 
