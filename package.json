@@ -17,7 +17,7 @@
         "stylescape": "^0.2.1"
     },
     "devDependencies": {
-        "autoprefixer": "^10.4.22",
+        "autoprefixer": "^10.4.23",
         "css-loader": "^7.1.2",
         "html-webpack-plugin": "^5.6.5",
         "postcss-loader": "^8.1.1",
