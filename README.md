@@ -1,43 +1,61 @@
-<div align="right">
+# Stylescape Webpack Example
 
-[![GitHub License](https://img.shields.io/github/license/stylescape/example-webpack?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/example-webpack/blob/main/LICENSE)
-[![devContainer](https://img.shields.io/badge/devContainer-23041B26?style=flat-square&logo=Docker&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/example-webpack)
-[![StackBlitz](https://img.shields.io/badge/StackBlitz-23041B26?style=flat-square&logo=StackBlitz&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26)](https://stackblitz.com/github/stylescape/example-webpack/tree/main?file=src%2Findex.html)
+This example demonstrates how to integrate [Stylescape](https://github.com/stylescape/stylescape) with [Webpack](https://webpack.js.org/), a powerful module bundler for JavaScript applications.
 
-</div>
+## About Stylescape
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/stylescape/brand/master/src/logo/logo-transparant.png" width="20%" alt="Stylescape Logo">
-</p>
-<h1 align="center" style='border-bottom: none;'>Stylescape + Webpack</h1>
-<h3 align="center">Example Project</h3>
+Stylescape is a comprehensive design system and CSS framework that provides a complete toolkit for building modern, accessible, and responsive web interfaces. It includes layout systems, interactive components, and utility classes.
 
----
-
-Include [Stylescape](https://scape.style)'s source Sass and individual JavaScript plugins with [Webpack](https://webpack.js.org).
-
----
-
-## Quickstart
+## Installation
 
 ```sh
 git clone https://github.com/stylescape/example-webpack.git
+cd example-webpack
 npm install
+```
+
+## Usage
+
+### Development Server
+
+```sh
 npm start
 ```
 
----
+This starts the Webpack development server with hot module replacement.
 
-## Colophon
+### Production Build
 
-Made with ❤️ by **[Scape Agency](https://www.scape.agency)**
+```sh
+npm run build
+```
 
-### Contributing
+Builds optimized and minified assets for production.
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+## Project Structure
 
-### License
+```
+example-webpack/
+├── src/
+│   ├── index.html      # Main HTML entry point
+│   ├── js/             # JavaScript source files
+│   └── scss/           # Sass stylesheets
+├── package.json        # Dependencies and scripts
+└── webpack.config.js   # Webpack configuration
+```
 
-This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
+## Features Demonstrated
 
----
+- Importing Stylescape via npm
+- Sass compilation with sass-loader
+- JavaScript bundling and optimization
+- Development server with live reload
+
+## Learn More
+
+- [Stylescape Documentation](https://github.com/stylescape/stylescape)
+- [Webpack Documentation](https://webpack.js.org/)
+
+## License
+
+MIT
