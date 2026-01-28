@@ -1,5 +1,7 @@
 # Stylescape Webpack Example
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/stylescape/example-webpack)
+
 This example demonstrates how to integrate [Stylescape](https://github.com/stylescape/stylescape) with [Webpack](https://webpack.js.org/), a powerful module bundler for JavaScript applications.
 
 ## About Stylescape
