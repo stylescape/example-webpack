@@ -1,7 +1,7 @@
 {
     "name": "stylescape-example-webpack",
     "description": "Stylescape example using Webpack bundler",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "private": true,
     "repository": "https://github.com/stylescape/example-webpack",
     "license": "MIT",
